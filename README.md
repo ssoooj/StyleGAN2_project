@@ -1,6 +1,9 @@
 # StyleGAN2_project
 Training using the pre-trained networks from StyleGAN2  
 The code resource is followed by https://github.com/NVlabs/stylegan2.git  
+<br>
+*Please clone the repository to see the customized code for this particular project.* 
+<br>
 
 <img width="1027" alt="Screen Shot 2021-06-09 at 3 49 35 PM" src="https://user-images.githubusercontent.com/45449025/121306994-75687c00-c93a-11eb-8d1d-467a50c5b952.png">
 
