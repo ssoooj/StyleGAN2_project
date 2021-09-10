@@ -1,7 +1,5 @@
-# StyleGAN2_project
+# AI Generated Art
 Training using the pre-trained networks from StyleGAN2
-<br>
-Objective : AI-generated artworks
 <br>
 
 <img width="957" alt="Screen Shot 2021-09-10 at 3 27 28 PM" src="https://user-images.githubusercontent.com/45449025/132809657-b62de23f-1419-4780-9fd8-e93575363681.png">
