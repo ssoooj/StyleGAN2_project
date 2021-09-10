@@ -1,18 +1,16 @@
 # StyleGAN2_project
-Training using the pre-trained networks from StyleGAN2  
-The code resource is followed by https://github.com/NVlabs/stylegan2.git  
+Training using the pre-trained networks from StyleGAN2
 <br>
-*Please clone the repository to see the customized code for this particular project.* 
+Objective : AI-generated artworks
 <br>
 
-<img width="1027" alt="Screen Shot 2021-06-09 at 3 49 35 PM" src="https://user-images.githubusercontent.com/45449025/121306994-75687c00-c93a-11eb-8d1d-467a50c5b952.png">
+<img width="957" alt="Screen Shot 2021-09-10 at 3 27 28 PM" src="https://user-images.githubusercontent.com/45449025/132809657-b62de23f-1419-4780-9fd8-e93575363681.png">
 
-<img width="1437" alt="Screen Shot 2021-06-09 at 3 49 54 PM" src="https://user-images.githubusercontent.com/45449025/121307310-d1cb9b80-c93a-11eb-91f0-641dd35c129c.png">
+<img width="957" alt="Screen Shot 2021-09-10 at 3 28 01 PM" src="https://user-images.githubusercontent.com/45449025/132809705-07200c2d-2ff7-45c6-aa69-59abf0f3e4cd.png">
 
-<img width="1437" alt="Screen Shot 2021-06-09 at 3 50 00 PM" src="https://user-images.githubusercontent.com/45449025/121307350-dd1ec700-c93a-11eb-9883-67006c712ab9.png">
+<img width="957" alt="Screen Shot 2021-09-10 at 3 28 40 PM" src="https://user-images.githubusercontent.com/45449025/132809773-94b02058-35b3-4722-bcff-9c430239dc7e.png">
 
-<img width="1437" alt="Screen Shot 2021-06-09 at 3 50 04 PM" src="https://user-images.githubusercontent.com/45449025/121307391-e7d95c00-c93a-11eb-81b7-327f613dc498.png">
+<img width="957" alt="Screen Shot 2021-09-10 at 3 29 04 PM" src="https://user-images.githubusercontent.com/45449025/132809814-6ad73319-c8cd-4397-84e3-229a01c2921e.png">
 
-<img width="1437" alt="Screen Shot 2021-06-09 at 3 50 05 PM" src="https://user-images.githubusercontent.com/45449025/121307439-f58ee180-c93a-11eb-84e6-aae178ca0639.png">
+<img width="957" alt="Screen Shot 2021-09-10 at 3 29 35 PM" src="https://user-images.githubusercontent.com/45449025/132809860-23bc1d49-e12c-47e8-a157-fb3506372a58.png">
 
-<img width="1437" alt="Screen Shot 2021-06-09 at 3 50 20 PM" src="https://user-images.githubusercontent.com/45449025/121307482-00e20d00-c93b-11eb-942d-03d6d5efee17.png">
